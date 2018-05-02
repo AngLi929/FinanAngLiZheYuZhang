@@ -15,7 +15,7 @@ cohort_wafarin = MarkovCls.Cohort(
     therapy=P.Therapies.Warfarin)
 
 cohort_aspirin = MarkovCls.Cohort(
-    id=1,
+    id=2,
     therapy=P.Therapies.Aspirin
 )
 

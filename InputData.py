@@ -17,9 +17,9 @@ RR_STROKE_Warfarin = 0.32
 
 RR_STROKE_Aspirin = 0.79
 
-RR_Death_Warfarin_Fall = 1.0001
+RR_Death_Warfarin_Fall = 1.001
 
-RR_Death_Aspirin_Fall = 1.00005
+RR_Death_Aspirin_Fall = 1.0005
 
 
 # annual health utility of each health state
